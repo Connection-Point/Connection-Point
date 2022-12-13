@@ -1,65 +1,51 @@
 <div align="center">
-<img align="left" src="https://raw.githubusercontent.com/L0um15/L0um15/master/svg/artificialintelligence.svg" height="162px" />
+<img align="left" src="https://user-images.githubusercontent.com/55119667/207395751-8d368d39-1221-4dfb-bc74-ab9d1d27b2ee.png" height="162px" />
+
+
+
 </div>
 
-<h1 align="center">Hi，ShenQingchuan here!</h1>
+<h1 align="center">Hi，localhost here!</h1>
 
 <h3 align="center">Languages & Tech Stack</h3>
 <p align="center">
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-    <code><img height="20" src="https://user-images.githubusercontent.com/46062972/136497244-be103dd7-7bb0-4488-9727-655889b8ce0d.png"></code> 
-    <code><img height="20" src="https://user-images.githubusercontent.com/46062972/154654125-e7934f6c-1c8c-4b49-9b37-12375f9ab9a2.png"></code> 
+    <code><img height="20" src="https://user-images.githubusercontent.com/55119667/207382702-2f71248c-91bd-4d20-82f4-fa91ff3fded7.png"></code>
+    <code><img height="20" src="https://user-images.githubusercontent.com/55119667/207382884-3e857353-1b77-4eb7-b0ae-a6e4cd9bbe59.png"></code>
+    <code><img height="20" src="https://user-images.githubusercontent.com/55119667/207383021-cc32c85a-f47c-4661-a14f-c8efba4250d2.png"></code>
+    <code><img height="20" src="https://user-images.githubusercontent.com/55119667/207383150-825b1849-85e9-4049-bbf6-e43d91017617.png"></code>
+    <code><img height="20" src="https://user-images.githubusercontent.com/55119667/207383353-e190bf18-3678-4baa-a0f6-07a6600b11ad.png">
+</code> 
 </p>
 
-<!-- > ## 👨🏻‍💻 Recent activities in Open Source / 最近在做的事 ... -->
-<!-- > 最近本职工作繁忙，也没干些啥 ... -->
-<!-- > **High Priority** 给女朋友写一个小程序 "刺猬和兔头的小树屋"。
-> - 小程序前端 [tree-hole-wxapp](https://github.com/ShenQingchuan/Tree-hole)
-> - 小程序后端 [tree-hole-wxcloud](https://github.com/ShenQingchuan/Tree-hole_Cloud-BackEnd) -->
-<!-- > 
-> **#2 Priority** 构想与实现 Velum - Try Refactoring Vue.js with [@sxzz](https://github.com/sxzz) - [👉🏻 Track this Repo](https://github.com/ShenQingchuan/velum)
- -->
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=35B1C5&duration=2500&lines=Inspire+Creativity%2C+Enrich+life.">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=There's+no+place+like+127.0.0.1">
 </div>
 <p align="center">
     <samp>
-    I am a front-end developer now, love Vue/Vite and open-source contribution. <br>
-    I'm working at Bytedance（字节跳动）—— Lark Mail.
+    Hi there, I'm now a computer science student, looking forward to be a full-stack developer. <br>
+    Currently study in University of Greenwich —— London.
     </samp>
 </p>
 
-<h3 align="center">Social</h3>
+<h3 align="center">My Email</h3>
 <p align="center">
     <samp>
-       Email: <a href="mailto:tmy991106@gmail.com">tmy991106@gmail.com</a>
+       Email: <a href="mailto:kcnco0011@protonmail.com">kcnco0011@protonmail.com</a>
     </samp>
     <br/><br/>
-    <code> <a href="https://web.okjike.com/u/AB2C438B-6A6A-4625-9722-23A816DFB768"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096676-6095c719-4cf5-4148-afc2-a00b256b6e40.png"></a></code> &nbsp;
-    <code> <a href="https://twitter.com/Shenqingchuan"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190095674-1edcfa35-6ea9-47b4-b969-35ff9104e7cd.png"></a></code> &nbsp;
-    <code> <a href="https://www.zhihu.com/people/tang-meng-yu-53"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096127-e3cadf80-6858-4ae4-981c-632246d7b82f.png"></a></code> &nbsp;
-    <code> <a href="https://weibo.com/u/6803477099"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096532-03e4290e-b88d-49c1-acbb-99f700b3b7ed.png"></a></code> &nbsp;
-        <code> <a href="https://space.bilibili.com/7473239"> <img height="20" src="https://user-images.githubusercontent.com/46062972/194840497-22835c48-f50b-483e-ad6c-98548d463944.png"></a></code> &nbsp;
+    <code> <a href="https://twitter.com/kcnco0011"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190095674-1edcfa35-6ea9-47b4-b969-35ff9104e7cd.png"></a></code> &nbsp;
+    <code> <a href="https://www.weibo.com/u/7346568619"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096532-03e4290e-b88d-49c1-acbb-99f700b3b7ed.png"></a></code> &nbsp;
+        <code> <a href="https://www.facebook.com/sam.lam.5059"> <img height="20" src="https://user-images.githubusercontent.com/55119667/207401641-92e2d852-d96a-4817-8de2-638dffc5259c.png"></a></code> &nbsp;
+        <code> <a href="https://www.instagram.com/kcnco0011/"> <img height="20" src="https://user-images.githubusercontent.com/55119667/207405718-83d4bbf4-f2d3-4045-9ae4-a9a4548d4b25.png"></a></code> &nbsp;
 </p>
 
 <table align="center">
     <tr>
         <td align="center">
-            <a href="https://discord.gg/uGezZ3xMxy">
+            <a href="https://discord.gg/RRgQ8gCFHs">
                 <img src="https://user-images.githubusercontent.com/46062972/180124463-e698d9f2-7d1b-4fbc-bce5-f98c01c39bc5.png" height="60px" />
             </a>
             <div><b><em><spam>Discord</spam></em></b></div>
-        </td>
-        <td align="center">
-            <a href="https://www.kookapp.cn/app/channels/1680614231520080/7765975899421527">
-                <img src="https://user-images.githubusercontent.com/46062972/190089430-4de2f728-4c97-45af-8a54-01b66a86a596.png" height="60px" />
-            </a>
-            <div><b><em><spam>KOOK</spam></em></b></div>
         </td>
     </tr>
 </table>
@@ -71,37 +57,35 @@
     <tr>
         <td align="center">
               <div><b><em><spam>Statistics</spam></em></b></div>
-              <img align="left" src="https://metrics.lecoq.io/ShenQingchuan?template=classic&base.header=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai" />
+              <img align="left" src="https://metrics.lecoq.io/Connection-Point?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FSingapore" />
         </td>
         <td align="left">
             <div align="center"><b><em><spam>Recent</spam></em></b></div>
             <ul>
-                <li >🔭 I’m currently working on <a href="https://github.com/vitejs/docs-cn">docs-cn</a> maintaining ... </li>
-                <li >💻 I’m interested in making useful terminal (CLI) application. e.g.
-                    <a href="https://github.com/ShenQingchuan/meditate">Meditate</a>, 
-                    <a href="https://github.com/ShenQingchuan/tsc-err-dirs">tsc-err-dirs</a> 
+                <li >🔭 I’m currently on my semester break until february of 2023 </li>
+                <li >💻 I’m interested in developing own project. e.g.
+                    <a href="https://github.com/Connection-Point/FaceDetect">Face Detection</a>
                 </li>
-                <li >🌱 I’m currently learning Rust、WindiCSS ... </li>
-                <li >🔧 I’m refactoring my graduation design works - a WSIWYG and collaborative editor <a href="https://github.com/ShenQingchuan/HeteroDoc">HeteroDoc</a> </li>
-                <li>⛺️ I have a private site: <a href="https://heterocube.top">Heterocube</a>, you're welcome to come!~ </li>
+                <li >📖 I’m currently learning Node.js、Swift and Go ... </li>
+                <li >🔧 I’m developing my final year project - a Machine learning + computer vision warning system <a href="https://github.com/Connection-Point/SCSJ1900870_Project">Vehicle Anti-Collision Warning System</a> </li>
+                <li>🌐 I have a GitHub website: <a href="https://connection-point.github.io/">程序员分享部落格 </a>, Feel free to visit </li>
             </ul>
         </td>
     </tr>
 </table>
 
-<h3 align="center">My Memes</h3>
+<h3 align="center">Favourite Quotes</h3>
 
 <p
-    <samp> <b>龙，答应我，收购苹果。</b> </samp>
-    <div align="left">
+    <samp align="center"> <b>!sleep if bug=true;</b> </samp>
+    <div align="center">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/46062972/177761749-da9d5297-87ac-4c30-b069-16bc685a7e80.png" width="150"> 
+        <img src="https://user-images.githubusercontent.com/55119667/207400108-0cdb4a87-9550-4ad6-bfe0-eceeea7be289.jpg" width="150"> 
         <span>&nbsp;&nbsp;&nbsp;</span>
-        <img src="https://user-images.githubusercontent.com/46062972/177762098-5ea66dc6-5c5b-4877-9edc-0610f4816530.jpeg" width="150">
+        <img src="https://user-images.githubusercontent.com/55119667/207400165-f188923d-82fe-4931-8f8e-e193b8118aa0.jpg" width="150">
         <span>&nbsp;&nbsp;&nbsp;</span>
-        <img width="160px" src="https://user-images.githubusercontent.com/46062972/180403602-495bd61a-139d-423b-9cfb-74c7b47cdab4.png" />
+        <img width="160px" src="https://user-images.githubusercontent.com/55119667/207400333-9fee02b1-55ee-4efc-8aea-7bad90dff599.jpg" />
         <span>&nbsp;&nbsp;&nbsp;</span>
-        <img width="200px" src="https://user-images.githubusercontent.com/46062972/190098300-f9aa3a1f-5898-43d0-ba3e-f7e1d95ca507.png" />
       </a>
     </div>
 </p>
