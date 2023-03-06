@@ -37,6 +37,7 @@
     <code> <a href="https://www.weibo.com/u/7346568619"> <img height="20" src="https://user-images.githubusercontent.com/46062972/190096532-03e4290e-b88d-49c1-acbb-99f700b3b7ed.png"></a></code> &nbsp;
         <code> <a href="https://www.facebook.com/sam.lam.5059"> <img height="20" src="https://user-images.githubusercontent.com/55119667/207401641-92e2d852-d96a-4817-8de2-638dffc5259c.png"></a></code> &nbsp;
         <code> <a href="https://www.instagram.com/kcnco0011/"> <img height="20" src="https://user-images.githubusercontent.com/55119667/207405718-83d4bbf4-f2d3-4045-9ae4-a9a4548d4b25.png"></a></code> &nbsp;
+        <code> <a href="https://www.linkedin.com/in/lam-t-533542136/"> <img height="20" src="https://user-images.githubusercontent.com/55119667/223076692-901523fe-f0e4-445b-a880-5ad5ae0fe7ae.jpg"></a></code> &nbsp;
 </p>
 
 <table align="center">
