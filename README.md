@@ -22,7 +22,7 @@
 </div>
 <p align="center">
     <samp>
-    Hi there, I'm now a computer science student, looking forward to be a full-stack developer. <br>
+    Hi there, I'm now a computing student, looking forward to be a full-stack developer. <br>
     Currently study in University of Greenwich —— London.
     </samp>
 </p>
