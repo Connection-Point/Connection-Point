@@ -22,7 +22,7 @@
 </div>
 <p align="center">
     <samp>
-    Hi there, I'm now a computing student, looking forward to be a full-stack developer. <br>
+    Hi there, I'm now a fresh graduated computing student, looking forward to be a full-stack developer. <br>
     Currently study in University of Greenwich —— London.
     </samp>
 </p>
@@ -63,12 +63,17 @@
         <td align="left">
             <div align="center"><b><em><spam>Recent</spam></em></b></div>
             <ul>
-                <li >🔭 I’m currently on my semester break until february of 2023 </li>
-                <li >💻 I’m interested in developing own project. e.g.
+                <li >🔭 I’m currently on my way to seek for a job </li>
+<!--                 <li >💻 I’m interested in developing own project. e.g.
                     <a href="https://github.com/Connection-Point/FaceDetect">Face Detection</a>
+                </li> -->
+                <li >💻 The project that I've done so far  
+                <ul>
+                <a href="https://github.com/Connection-Point/Alumni-Network">1. Alumni Network</a>
+                </ul>
                 </li>
-                <li >📖 I’m currently learning Node.js、Swift and Go ... </li>
-                <li >🔧 I’m developing my final year project - a Machine learning + computer vision warning system <a href="https://github.com/Connection-Point/SCSJ1900870_Project">Vehicle Anti-Collision Warning System</a> </li>
+                <li >📖 I’m currently learning Vite, Laravel and React Native ... </li>
+<!--                 <li >🔧 I’m developing my final year project - a Machine learning + computer vision warning system <a href="https://github.com/Connection-Point/SCSJ1900870_Project">Vehicle Anti-Collision Warning System</a> </li> -->
                 <li>🌐 I have a GitHub website: <a href="https://connection-point.github.io/">程序员分享部落格 </a>, Feel free to visit </li>
             </ul>
         </td>
