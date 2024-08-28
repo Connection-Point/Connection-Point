@@ -22,9 +22,9 @@
 </div>
 <p align="center">
     <samp>
-    Hi there, I'm now a fresh graduated computing student, looking forward to be a full-stack developer. <br>
-    Currently study in University of Greenwich —— London.
-    </samp>
+    Hi there, I'm a recent computing graduate with a focus on backend development, now aiming to become a full-stack developer. <br>
+    Currently working in a game studio as a backend-developer.
+</samp>
 </p>
 
 <h3 align="center">My Email</h3>
