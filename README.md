@@ -63,7 +63,7 @@
         <td align="left">
             <div align="center"><b><em><spam>Recent</spam></em></b></div>
             <ul>
-                <li >🔭 I’m currently on my way to seek for a job </li>
+                <li >🔭 I’m currently assigned as Backend Developer </li>
 <!--                 <li >💻 I’m interested in developing own project. e.g.
                     <a href="https://github.com/Connection-Point/FaceDetect">Face Detection</a>
                 </li> -->
